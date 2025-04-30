@@ -10,7 +10,7 @@
 * 💼 **Industrial Engineer** with solid experience as a **Data Analyst** in logistics and procurement.
 * 🛍️I'm currently working at **Universidad Cesar Vallejo** as a **Purchasing Analyst**
 * 📈Proficient in **SQL**, **Python**, **Power BI**, **Tableau** and working with **relational databases** like PostgreSQL and SQL Server.
-* 🍂I'm looking to improve my programming skills
+* 🍂I'm looking to become a data science
 
 ---
 ### Contact Me
